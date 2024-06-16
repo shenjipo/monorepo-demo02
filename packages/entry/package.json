@@ -1,0 +1,9 @@
+{
+    "name": "space-play",
+    "version": "0.0.1",
+    "main": "index.ts",
+    "dependencies": {
+        "@space-play/parta": "workspace:^",
+        "@space-play/partb": "workspace:^"
+    }
+}
